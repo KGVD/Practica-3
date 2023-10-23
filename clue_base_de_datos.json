@@ -1,0 +1,40 @@
+{
+  "evidencia": [
+    {
+      "Personas": {
+        "Siegfried el caballero": false,
+        "Pomni la Bufona": false,
+        "Isabel la Reina": false,
+        "Sanson el Verdugo": false,
+        "Pacha el Plebeyo": false
+      }
+    },
+    {
+      "Ubicaciones": {
+        "el Castillo": false,
+        "la Cocina": false,
+        "el Molino": false,
+        "la Murallas": false,
+        "el Cementerio": false
+      }
+    },
+    {
+      "Armas": {
+        "un Espadon": false,
+        "una Ballesta": false,
+        "un Arco": false,
+        "una Daga": false,
+        "una Hacha": false
+      }
+    },
+    {
+       "Acciones": {
+        "Admiraba las esculturas y los cuadros": false,
+        "se hacia algo de comer extravagantemente": false,
+        "Se perdia en el girar interminable de las astas": false,
+        "Contemplaba la hermosa noche": false,
+        "Visitaba la tumba de un familiar": false
+        }
+    }
+  ]
+}
